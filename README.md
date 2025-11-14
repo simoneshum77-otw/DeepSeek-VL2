@@ -53,7 +53,7 @@
   <a href="https://github.com/deepseek-ai/DeepSeek-VL2/tree/main?tab=readme-ov-file#6-citation"><b>📖 Citation</b></a> <br>
   <a href="./DeepSeek_VL2_paper.pdf"><b>📄 Paper Link</b></a> |
   <a href="https://arxiv.org/abs/2412.10302"><b>📄 Arxiv Paper Link</b></a> |
-  <a href="https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small"><b>👁️ Demo</b></a>
+  <a href="https://huggingface.co/spaces/deepseek-ai/deepseek-vl2-small"><b>👁️‍🗨️ Demo</b></a>
 </p>
 
 ## 1. Introduction
@@ -402,3 +402,7 @@ This code repository is licensed under [MIT License](./LICENSE-CODE). The use of
 ## 7. Contact
 
 If you have any questions, please raise an issue or contact us at [service@deepseek.com](mailto:service@deepseek.com).
+
+---
+
+Related project: [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
